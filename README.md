@@ -1,4 +1,4 @@
-# Image_to_googleMapsPin_
+# Image to googleMapsPin with Canvas
 
 PT-BR
 Criando um pin do Google maps personalizado, com qualquer imagem ou logo usando Canvas em JavaScript e Vue.
