@@ -90,7 +90,6 @@ export default {
       ctxLogo.fill()
       var data64 = canvas.toDataURL()
       this.dataImage = data64
-      // this.ator.
       this.insertPin()
       return data64
     },
@@ -108,7 +107,7 @@ export default {
         }, 1)
       }
     },
-    'ator.logo' () {
+    'ImageToConvert.logo' () {
       if (this.ImageToConvert.category) {
         setTimeout(() => {
           this.setColor()
