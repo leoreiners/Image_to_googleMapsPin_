@@ -10,5 +10,4 @@ EN
 
 Creating a custom Google maps pin with category color, with any image using Canvas in JavaScript and Vue.
 
-This project was born within the need to use a custom pin in google-maps for a job, without being able to change the image's crop method, making it necessary
-that any adjustments have been made using the canvas.
+This project was born within the need to use a custom pin in google-maps for a job to a governamental company with the objective of mapping all startups on my state, without being able to change the image's crop method, making it necessary that any adjustments have been made using the canvasJS.
